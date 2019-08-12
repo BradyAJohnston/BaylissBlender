@@ -8,5 +8,10 @@ In this tutorial you should be able to:
 4. Render images. 
 5. Export your scene as a file usable in Augmented Reality. 
 
-A work in progress. 
+A work in progress.
+
+## Required Resources
+### Blender
+Blender is an extremely powerful 3D modelling and animation software. It's studio grade and used in a huge amount of game and movie development. Thest best
+part is that it's compeltely free and open source (forever, guaranteed). *Download* the latest blender here: https://www.blender.org/download 
 
