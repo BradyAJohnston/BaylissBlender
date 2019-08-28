@@ -22,4 +22,4 @@ Developed by UCSF, Chimera is an alternative 3D graphics package for viewing and
 ### Getting Comfortable in Blender. 
 Open a Blender and you should be greeted with a view somewhat like this. 
 
-![](Screen Shot 2019-08-28 at 11.27.40 am.jpg)
+![](/Screen Shot 2019-08-28 at 11.27.40 am.jpg)
