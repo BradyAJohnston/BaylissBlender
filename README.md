@@ -17,3 +17,9 @@ Blender is an extremely powerful 3D modelling and animation software. It's studi
 
 ### UCFS Chimera
 Developed by UCSF, Chimera is an alternative 3D graphics package for viewing and manipulating protein structural data. Now beginning to rival Pymol and better because it's free and open source. Download the latest Chimera from: https://www.cgl.ucsf.edu/chimera/download.html
+
+# 1. Getting Started. 
+### Getting Comfortable in Blender. 
+Open a Blender and you should be greeted with a view somewhat like this. 
+
+![](Screen Shot 2019-08-28 at 11.27.40 am.jpg)
